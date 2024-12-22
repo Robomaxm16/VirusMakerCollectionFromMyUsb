@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ransomware-Maker.cs/1.2.0": {
+        "runtime": {
+          "Ransomware-Maker.cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ransomware-Maker.cs/1.2.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
